@@ -1726,7 +1726,7 @@ footer {
   width: 95%;
   margin: 0 auto;
   overflow: hidden;
-  position: relative;
+  position: fixed;
   bottom: 0px;
 }
 #footer .line {
